@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-Complete ruby on rails
+Complete ruby on rails Developer by Manish Singh Mowall
