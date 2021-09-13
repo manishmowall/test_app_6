@@ -22,4 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-Complete ruby on rails Developer by Manish Singh Mowall
+First Test repo on the Complete ruby on rails Developer by Manish Singh Mowall
+
